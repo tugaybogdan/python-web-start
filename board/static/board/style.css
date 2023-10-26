@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(59, 59, 59);
+}
+header h1 {
+    font-size: 40pt;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(207, 139, 13);
+}
+
+nav {
+    width: 150px;
+    float: left;
+    font-size: 16pt;
+}
+
+nav a {
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+section {
+    margin-left: 170px;
+}
+
+section div h2 {
+    border-bottom: 1px solid rgb(207, 139, 13);
+}
